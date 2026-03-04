@@ -1,5 +1,8 @@
-# marketing-perfomance-case-study
-Data-driven marketing campaign analysis including KPI tracking, ROI evaluation, and optimization strategy.
+## 💰 Financial Performance Visualization
+
+<p align="center">
+  <img src="campaign_financial_performance_chart.png" width="85%" />
+</p>
 
 # Marketing Campaign Performance Case Study
 
