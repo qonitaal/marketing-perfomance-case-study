@@ -1,7 +1,6 @@
 ## 💰 Financial Performance Visualization
 
-<img src="assets/campaign_financial_performance_chart.png" width="85%" />
-# Marketing Campaign Performance Case Study
+<img src="campaign_financial_performance_chart.png" width="85%" />
 
 ## 📌 Campaign Overview
 
